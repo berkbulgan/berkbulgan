@@ -7,7 +7,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code></li>
 <li> 🤔 <b>I’m looking for help with</b> : <code>Data Engineering</code>, <code>Big Data</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code> <code><a href="callto:+905069186606">Phone</a></code> </li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code> <code><a href="callto:00905069186606">Phone</a></code> </li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://berkbulgan.com/portfolio/">https://berkbulgan.com/portfolio/</a></code></li>
 
 
