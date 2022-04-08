@@ -5,18 +5,14 @@
 <p><i> I'm Berk, a wannabe data scientist but now learning modern web technologies.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Full Stack Web Development</code></li>
-<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code></li>
-<li> 🤔 <b>I’m looking for help with</b> : <code>Data Engineering</code>, <code>Big Data</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://berkbulgan.com/portfolio/">https://berkbulgan.com/portfolio/</a></code></li>
+<!--<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code></li>-->
+<li> 🤔 <b>I’m looking for help with</b> : <code>Data Engineering</code>, <code>Big Data</code>, <code>React</code> </li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code>, <code><a href="mailto: berkbulgan@gmail.com">berkbulgan@gmail.com</a></code></li>
+<!--<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://berkbulgan.com/portfolio/">https://berkbulgan.com/portfolio/</a></code></li>-->
 
 
 
 <!--
-**berkbulgan/berkbulgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
