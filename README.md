@@ -8,7 +8,7 @@
 <!--<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code></li>-->
 <li> 🤔 <b>I’m looking for help with</b> : <code>Data Engineering</code>, <code>Big Data</code>, <code>React</code> </li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code>, <code><a href="mailto: berkbulgan@gmail.com">berkbulgan@gmail.com</a></code></li>
-<br><br>
+<li> 📑 <b>For cv</b> : <a href="http://github.com/berkbulgan/berkbulgan/cv.pdf"><code>PDF Format</code></a></li>
 <a href="https://twitter.com/AbrahamBulgs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitterBadge"></a>
 <a href="https://instagram.com/BerkBulgan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="twitterBadge"></a>
 <!--<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://berkbulgan.com/portfolio/">https://berkbulgan.com/portfolio/</a></code></li>-->
