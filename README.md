@@ -5,8 +5,8 @@
 <p><i> I'm Berk, a wannabe data scientist but now learning modern web technologies.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Full Stack Web Development</code></li>
-<!--<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code></li>-->
-<li> 🤔 <b>I’m looking for help with</b> : <code>Data Engineering</code>, <code>Big Data</code>, <code>React</code> </li>
+<!--<li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Python</code></li>-->
+<li> 🤔 <b>I’m looking for help with</b> : <code>iOS Development</code>, <code>Database Management Systems</code> </li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/ibrahim-berk-bul%C4%9Fan-bb7a11127/">LinkedIn</a></code>, <code><a href="mailto: berkbulgan@gmail.com">berkbulgan@gmail.com</a></code></li>
 <li> 📑 <b>For CV</b> : <a href="https://github.com/berkbulgan/berkbulgan/blob/main/cv.pdf"><code>PDF Format</code></a></li>
 <br>
