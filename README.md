@@ -8,9 +8,9 @@ Started programming 8 years ago but studied it time to time. Full time learner f
 
 *   🌍  I'm based in Burdur, Turkey
 *   ✉️  You can contact me at [berkbulgan@gmail.com](mailto:berkbulgan@gmail.com)
-*   🚀  I'm currently working on [O İş Bende (Project for Teknofest)](http://github.com/hallederizabi)
-*   🧠  I'm learning Next.js and Node.js
-*   🤝  I'm open to collaborating on Web Projects
+*   🚀  I'm currently working at Network Hardwares as Frontend Developer.
+*   🧠  I'm learning Backend technologies.
+*   🤝  I'm open to collaborating on Web Projects.
 *   ⚡  Fun fact: I'm also a basketball referee.
 
 ### Skills 
