@@ -8,7 +8,6 @@ Started programming 8 years ago but studied it time to time. Full time learner f
 
 *   🌍  I'm based in Burdur, Turkey
 *   ✉️  You can contact me at [berkbulgan@gmail.com](mailto:berkbulgan@gmail.com)
-*   🚀  I'm currently working at Network Hardwares as Frontend Developer.
 *   🧠  I'm learning Backend technologies.
 *   🤝  I'm open to collaborating on Web Projects.
 *   ⚡  Fun fact: I'm also a basketball referee.
