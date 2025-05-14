@@ -4,7 +4,7 @@
 Full-Stack Web Developer
 ------------------------
 
-Started programming 8 years ago but studied it time to time. Full time learner for one and half a year. Interested in Data Science and Web Development.
+Started programming in 2012 but studied it time to time. Full time learner for couple years. Interested in Data Science and Web Development.
 
 *   🌍  I'm based in Burdur, Turkey
 *   ✉️  You can contact me at [berkbulgan@gmail.com](mailto:berkbulgan@gmail.com)
